@@ -20,21 +20,7 @@
 
 ## 程序架构（Illustration 图示）
 
-> 满足课程 PPT 要求：**至少一幅图示 + 清楚表明系统结构**
-
- **系统架构图（Data Flow）**
-
-<img src="img/System_DataFlow.png" width="550">
-
-**UML 类图（Class Diagram）**
-
-<img src="img/UML_ClassDiagram.png" width="550">
-
- **程序流程图（Main Loop Flowchart）**
-
-<img src="img/Flowchart.png" width="550">
-
-> 图片均存放在 `/img` 文件夹，若图片未显示，请检查文件路径。
+<img src="System_DataFlow.png" width="550">
 
 ---
 
