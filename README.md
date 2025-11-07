@@ -20,7 +20,7 @@
 
 ## 程序架构（Illustration 图示）
 
-<img src="System_DataFlow.png" width="550">
+<img src="img/System_DataFlow.png" width="550">
 
 ---
 
